@@ -6,6 +6,12 @@
 
 
 ```
+ <dependency>
+    <groupId>com.fasterxml.jackson.dataformat</groupId>
+    <artifactId>jackson-dataformat-csv</artifactId>
+    <version>2.11.1</version>
+</dependency>
+
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
     <artifactId>jackson-databind</artifactId>
